@@ -1,0 +1,6 @@
+{
+  "name": "Jholichi S. Tempra - Portfolio",
+  "description": "Personal portfolio of Jholichi S. Tempra showcasing programming, networking, and automation projects with an n8n webhook chat widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
